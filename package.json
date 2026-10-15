@@ -1,0 +1,29 @@
+{
+	"name": "@nettleweb/emoji-picker-lite",
+	"author": "NettleWeb <support@nettleweb.com> (https://nettleweb.com/)",
+	"license": "Apache-2.0",
+	"version": "0.1.0",
+	"homepage": "https://github.com/nettleweb/emoji-picker-lite",
+	"description": "A super lightweight emoji picker with minimal code",
+	"main": "main.js",
+	"type": "module",
+	"types": "./types/types.d.ts",
+	"files": [
+		"/src/",
+		"/types/",
+		"main.js",
+		"package.json"
+	],
+	"bugs": {
+		"url": "https://github.com/nettleweb/emoji-picker-lite/issues",
+		"email": "support@nettleweb.com"
+	},
+	"engines": {
+		"node": ">=18.17.1",
+		"vscode": "^1.22.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nettleweb/emoji-picker-lite.git"
+	}
+}
